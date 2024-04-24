@@ -1,0 +1,4 @@
+train: /home/sysadm/Downloads/building_rectangle/train/
+val: /home/sysadm/Downloads/building_rectangle/val/
+nc: 4
+names: ["damagedcommercialbuilding", "damagedresidentialbuilding", "undamagedcommercialbuilding", "undamagedresidentialbuilding"]
